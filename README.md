@@ -31,6 +31,6 @@ Next.js · JavaScript · Tailwind · shadcn/ui · Supabase · Vercel
 
 ## Meu papel
 
-Produto, prompt engineering, arquitetura e implementação. Sozinho, com o Claude Code.
+Produto, prompt engineering, arquitetura e implementação. Sozinho, com o Claude Code e Codex.
 
 Projeto independente, sem afiliação ao consórcio AMÁLIA nem ao Governo de Portugal. Feito pelo criador do Tapinfy.
